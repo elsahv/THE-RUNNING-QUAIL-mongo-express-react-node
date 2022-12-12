@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <h2>Running Quail-</h2>
-      <p>Site coming soon!!!</p>
+      <p>Site coming soon!!!!!</p>
     </div>
   );
 }
